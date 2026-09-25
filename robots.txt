@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: sitemap.xml
+Sitemap: https://pramyashree444.github.io/aarohi-ethnic-wear/sitemap.xml
